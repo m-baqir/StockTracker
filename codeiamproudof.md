@@ -6,4 +6,4 @@ please check out my other repositories for projects i've worked on in the recent
 - [Knight's Club a social media platform](https://github.com/m-baqir/Knights-Club) 
 - This is a group project we did. Built a social media platform with user profiles, friend requests, image galleries, community blog, subscription with paypal integration and other features.
 ---
-Please keep in mind these projects are nowhere near completion and are currently being worked on. Aside from these projects, I am also working on my own portfolio website which should be ready in the next few weeks. 
+Please keep in mind these projects are a work in progress. Aside from these projects, I am also working on my own portfolio website which should be ready in the next few weeks. 
