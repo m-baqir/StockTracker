@@ -24,6 +24,7 @@ if (isset($_POST['login'])) {
 
 if (isset($_POST['logout'])) {
     session_destroy();
+    header("Location:index.php");
 }
 //validates password against regex
 function validpass($pass)
